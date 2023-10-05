@@ -1,2 +1,1 @@
 # permission
-Izin dulu mase
